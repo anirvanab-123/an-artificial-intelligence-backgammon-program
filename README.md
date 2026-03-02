@@ -1,0 +1,1 @@
+This is an intelligent Gomoku programme based on Alpha-beta pruning. Users may test it on their own Gomoku websites to observe its performance. The website referenced in the code is currently inaccessible.
